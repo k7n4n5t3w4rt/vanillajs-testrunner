@@ -1,3 +1,10 @@
+
+// -------------------------------------------
+// TEST RUNNER: DO NOT EDIT
+// -------------------------------------------
+const appDiv = document.getElementById("test");
+const resDiv = document.getElementById("result");
+
 function pass(message) {
   return `<p style="color: green">PASS: ${message}</p>`;
 }
